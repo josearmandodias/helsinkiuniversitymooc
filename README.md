@@ -1,4 +1,4 @@
-# Data Structures and Algorithms, spring 2025
+# [Data Structures and Algorithms, spring 2025](https://tira.mooc.fi/spring-2025/)
 The course consists of two five credit course units, Part I and Part II. You can complete both parts as an online course on this page during Spring 2025.
 
 The course is completed by solving automatically checked exercises. The course format is the same for degree students of the University of Helsinki and for Open University students.
