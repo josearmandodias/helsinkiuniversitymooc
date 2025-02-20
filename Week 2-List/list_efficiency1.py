@@ -24,11 +24,11 @@ def deletion(n):
 
 # Time taken implementation
 start_time_add=time.time()
-add=addition(n)
+addition(n)
 end_time_add=time.time()
 
 start_time_deletion=time.time()
-delete=deletion(n)
+deletion(n)
 end_time_deletion=time.time()
 
 # Measure time taken by each implementation
