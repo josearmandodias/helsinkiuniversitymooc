@@ -12,6 +12,7 @@ def find_order(n):
         return []
 
     # Initialize the list with players 1 to n
+    print(range(1, n+1))
     circle = list(range(1, n + 1))
     leaving_order = []
     index = 0  # Start with the first player
